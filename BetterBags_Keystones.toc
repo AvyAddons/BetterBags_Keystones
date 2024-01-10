@@ -1,0 +1,27 @@
+## Interface: 100200
+
+## Title: BetterBags - Keystones
+## Notes: Adds a Mythic+ Keystones filter to BetterBags.
+## Author: Avyiel
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## IconTexture: Interface\Icons\inv_relics_hourglass
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+## X-Curse-Project-ID:
+## X-Wago-ID:
+
+main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
