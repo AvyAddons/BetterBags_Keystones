@@ -17,8 +17,8 @@
 ## X-Category: Bags & Inventory
 ## X-License: MIT
 
-## X-Curse-Project-ID:
-## X-Wago-ID:
+## X-Curse-Project-ID: 960362
+## X-Wago-ID: RNL92b6o
 
 main.lua
 
