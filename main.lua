@@ -5,6 +5,8 @@ local categories = BetterBags:GetModule('Categories')
 ---@class Localization: AceModule
 local L = BetterBags:GetModule('Localization')
 
+categories:WipeCategory(L:G("|cff7997dbKeystone|r"))
+
 ---@param data ItemData
 categories:RegisterCategoryFunction("KeystonesCategoryFilter", function(data)
 	if C_Item.IsItemKeystoneByID(data.itemInfo.itemID) then
