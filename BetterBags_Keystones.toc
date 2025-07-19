@@ -1,4 +1,4 @@
-## Interface: 110105
+## Interface: 110107
 
 ## Title: BetterBags - Keystones
 ## Notes: Adds a Mythic+ Keystones filter to BetterBags.
@@ -34,4 +34,5 @@ main.lua
 
 #@debug@
 ## Version: DEV
+## AllowAddOnTableAccess: true
 #@end-debug@
