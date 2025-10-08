@@ -1,10 +1,12 @@
-## Interface: 110107, 110200
+## Interface: 110200, 110205
 
 ## Title: BetterBags - Keystones
 ## Notes: Adds a Mythic+ Keystones filter to BetterBags.
 ## Author: Avyiel
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_relics_hourglass
+
+## Group: BetterBags
 ## Category-enUS: Inventory
 ## Category-deDE: Inventar
 ## Category-esES: Inventario
@@ -34,5 +36,5 @@ main.lua
 
 #@debug@
 ## Version: DEV
-## AllowAddOnTableAccess: true
+## AllowAddOnTableAccess: 1
 #@end-debug@
