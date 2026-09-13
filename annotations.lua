@@ -112,6 +112,7 @@ local itemData = {};
 ---@field category string
 ---@field currentItemLevel number
 ---@field equipmentSets string[]|nil
+---@field tooltipText string
 ---@field isBattlePayItem boolean
 ---@field emptySlotName? string
 
