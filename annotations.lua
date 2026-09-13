@@ -112,6 +112,8 @@ local itemData = {};
 ---@field category string
 ---@field currentItemLevel number
 ---@field equipmentSets string[]|nil
+---@field isBattlePayItem boolean
+---@field emptySlotName? string
 
 ---@enum ExpansionType
 local EXPANSION_TYPE = {
@@ -126,4 +128,5 @@ local EXPANSION_TYPE = {
 	LE_EXPANSION_SHADOWLANDS = 8,
 	LE_EXPANSION_DRAGONFLIGHT = 9,
 	LE_EXPANSION_WAR_WITHIN = 10,
+	LE_EXPANSION_MIDNIGHT = 11,
 }
