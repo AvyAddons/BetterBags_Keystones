@@ -7,7 +7,7 @@ local BAG_KIND = {
 	BANK = 1,
 }
 
----@enum BindingScope  -- similar. but distinct from ItemBind
+---@enum BindingScope
 local BINDING_SCOPE = {
 	UNKNOWN = -1,
 	NONBINDING = 0,
